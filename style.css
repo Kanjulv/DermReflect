@@ -257,7 +257,9 @@ body{
 
 /* image collage */
 
-.image-mid-section{
+
+
+/* .image-mid-section{
     width: 100%;
     height: 600px;
     padding: 50px 5vw;
@@ -274,28 +276,28 @@ body{
 .image-collection{
     position: relative;
     /* display: block; */
-    display:flex;
+    /* display:flex;
     justify-content: space-around;
     width: 50%;
     height: 100%;
     background: #fff;
     margin: auto;
-}
+} */
 
-.collage-img{
+/* .collage-img{
     position: absolute;
     object-fit: cover;
     transition: .5s;
-}
+} */
 
-.collage-img:nth-child(1){
+/* .collage-img:nth-child(1){
     width: 350px;
     height: 350px;
     top: 20px;
     left: 40px;
-}
+} */
 
-.collage-img:nth-child(2){
+/* .collage-img:nth-child(2){
     width: 250px;
     height: 250px;
     top: 200px;
@@ -318,7 +320,7 @@ body{
 
 .collage-img:hover{
     z-index: 10;
-}
+} */ 
 
 
 /* review section */
