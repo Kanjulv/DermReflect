@@ -131,6 +131,23 @@ body{
     left: -12px;
 }
 
+@media screen and (max-width: 768px) {
+    .links-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .link-item {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    
+    .search-input {
+        width: 100%;
+    }
+}
+
+
 /* best selling product */
 
 .best-selling-product-section{
