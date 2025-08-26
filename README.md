@@ -2,7 +2,7 @@
 
 ![DermReflect Website](https://github.com/Kanjulv/DermReflect/blob/main/image.jpg)
 
-Welcome to DermReflect, a machine learning model designed to scan user faces in real-time or as static images. This model was trained using Google Teachable Machine and deployed on a website built with HTML and CSS.
+Welcome to DermReflect, a machine learning model designed to scan user faces in real-time or as static images. This model was trained using Google Teachable Machine and deployed on a website built with HTML and CSS and Agentic AI.
 
 ## Website
 
@@ -29,7 +29,7 @@ DermReflect is a powerful tool that utilizes machine learning to analyze facial 
 
 ## Technical Details
 
-DermReflect is powered by a machine learning model that was trained using Google Teachable Machine. The website is developed using HTML and CSS to provide a user-friendly interface.
+DermReflect is powered by a machine learning model that was trained using Google Teachable Machine. The website is developed using HTML and CSS and Agentic AI to provide a user-friendly interface.
 
 ## Support and Feedback
 
